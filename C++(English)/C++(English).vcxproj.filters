@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Üst Bilgi Dosyaları">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Kaynak Dosyaları">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Kaynak Dosyaları\Education 33%28Friend Class%29">
+      <UniqueIdentifier>{74e7a99a-333f-4be4-993d-8e889cf75717}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Kaynak Dosyaları\Education 30%28Inheritance%29">
+      <UniqueIdentifier>{69976dcb-e632-4139-8f5c-9f27e4f8f64f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Kaynak Dosyaları\Education 46%28C++ Exam-Interwiew Questions%29">
+      <UniqueIdentifier>{d7411768-7517-4f82-bb0a-bae666d937d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Kaynak Dosyaları\Education 44%28Example C++ OOP Comprehensive Application Project Using STL List%29">
+      <UniqueIdentifier>{cbf865e7-0091-4b0e-a282-a5b94bfd202c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Kaynak Dosyaları\Education 35%28Exception Handling with Try-Catch%29">
+      <UniqueIdentifier>{ec03dfd1-82be-4e9c-9f78-561440adca67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Kaynak Dosyaları\Education 28%28OOP - Object-Oriented Programming%29">
+      <UniqueIdentifier>{bb16742f-c0e5-4a88-ad37-331b05ea8ad8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Education 1(Basics).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 2(Variables).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 3(Prefix - Postfix).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 4%28Input Handling%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 5(Library).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 6(If-Else).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 7(Operators).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 8(Switch-Case).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 9(InterviewQuestion).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 10%28Turkish Characters%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 11(Loops).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 12(Break-Continue).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 13(Debugger-Breakpoint).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 14(Functions).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 15%28One Dimensional Arrays%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 16(Multi Dimensional Arrays).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 17(Array Function Test).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 18(String).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 19%28Algorithm %28Prime Divisors + Performance Comparison%29%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 20(Const-Static).cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 21%28Try-Catch%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 22%28Call by Value - Call by Reference%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 23%28Pointers%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 24%28Memory Management%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 25%28Stack and Heap%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 26%28Struct%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 27%28OOP - Object Oriented Programming%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 29%28File Operations%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 31%28Virtual Function and Polymorphism%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 32%28Friend Functions%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 34%28Default Values in Constructors and Initializer List%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 36%28Auto Usage%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 37%28Lambda Expression, C++ Lambda Function%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 38%28Template Usage%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 39%28List Class%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 40%28Vector Class%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 41%28Vectors and OOP Comprehensive Midterm Question and Solution%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 42%28Map Class%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 43%28Map and OOP Comprehensive Midterm Question and Solution%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 45%28C++ Exam-Interview and Test Questions%29.cpp">
+      <Filter>Kaynak Dosyaları</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 28%28OOP - Object-Oriented Programming%29.cpp">
+      <Filter>Kaynak Dosyaları\Education 28%28OOP - Object-Oriented Programming%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 28 Car.cpp">
+      <Filter>Kaynak Dosyaları\Education 28%28OOP - Object-Oriented Programming%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 30%28Inheritance%29.cpp">
+      <Filter>Kaynak Dosyaları\Education 30%28Inheritance%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Cat.cpp">
+      <Filter>Kaynak Dosyaları\Education 30%28Inheritance%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Animal.cpp">
+      <Filter>Kaynak Dosyaları\Education 30%28Inheritance%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Dog.cpp">
+      <Filter>Kaynak Dosyaları\Education 30%28Inheritance%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Bird.cpp">
+      <Filter>Kaynak Dosyaları\Education 30%28Inheritance%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculator.cpp">
+      <Filter>Kaynak Dosyaları\Education 33%28Friend Class%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>Kaynak Dosyaları\Education 33%28Friend Class%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 35%28Exception Handling with Try-Catch%29.cpp">
+      <Filter>Kaynak Dosyaları\Education 35%28Exception Handling with Try-Catch%29</Filter>
+    </ClCompile>
+    <ClCompile Include="ErrorClass.cpp">
+      <Filter>Kaynak Dosyaları\Education 35%28Exception Handling with Try-Catch%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Test.cpp">
+      <Filter>Kaynak Dosyaları\Education 35%28Exception Handling with Try-Catch%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 44%28Example C++ OOP Comprehensive Application Project Using STL List%29.cpp">
+      <Filter>Kaynak Dosyaları\Education 44%28Example C++ OOP Comprehensive Application Project Using STL List%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Kaynak Dosyaları\Education 44%28Example C++ OOP Comprehensive Application Project Using STL List%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Education 45(C++ Exam-Interwiew Questions).cpp">
+      <Filter>Kaynak Dosyaları\Education 46%28C++ Exam-Interwiew Questions%29</Filter>
+    </ClCompile>
+    <ClCompile Include="Account.cpp">
+      <Filter>Kaynak Dosyaları\Education 46%28C++ Exam-Interwiew Questions%29</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Education 28 Car.h">
+      <Filter>Kaynak Dosyaları\Education 28%28OOP - Object-Oriented Programming%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Animal.h">
+      <Filter>Kaynak Dosyaları\Education 30%28Inheritance%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Bird.h">
+      <Filter>Kaynak Dosyaları\Education 30%28Inheritance%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Dog.h">
+      <Filter>Kaynak Dosyaları\Education 30%28Inheritance%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Cat.h">
+      <Filter>Kaynak Dosyaları\Education 30%28Inheritance%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>Kaynak Dosyaları\Education 33%28Friend Class%29</Filter>
+    </ClInclude>
+    <ClInclude Include="ErrorClass.h">
+      <Filter>Kaynak Dosyaları\Education 35%28Exception Handling with Try-Catch%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h">
+      <Filter>Kaynak Dosyaları\Education 44%28Example C++ OOP Comprehensive Application Project Using STL List%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Student1.h">
+      <Filter>Kaynak Dosyaları\Education 44%28Example C++ OOP Comprehensive Application Project Using STL List%29</Filter>
+    </ClInclude>
+    <ClInclude Include="Account.h">
+      <Filter>Kaynak Dosyaları\Education 46%28C++ Exam-Interwiew Questions%29</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
